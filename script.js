@@ -1,6 +1,6 @@
 console.log("hello");
 var a = "hello";
 function Hello(str) {
-    return str
+  return str;
 }
-document.write("Hello World")
+document.querySelector("h1").innerHTML = "Salom";
