@@ -1,7 +1,10 @@
 header {
-    background-color: beige;
-    justify-content: center;
-    align-items: start;
-    display: flex;
-    gap: 20px;
+  background-color: beige;
+  justify-content: center;
+  align-items: start;
+  display: flex;
+  gap: 20px;
+}
+ul li {
+  color: aqua;
 }
