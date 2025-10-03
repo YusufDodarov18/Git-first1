@@ -3,3 +3,4 @@ var a = "hello";
 function Hello(str) {
     return str
 }
+document.write("Hello World")
