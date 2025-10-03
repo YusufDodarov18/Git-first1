@@ -3,4 +3,5 @@ header {
     justify-content: center;
     align-items: start;
     display: flex;
+    gap: 20px;
 }
